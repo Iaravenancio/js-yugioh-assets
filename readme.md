@@ -4,7 +4,7 @@ Este projeto é um jogo web baseado no clássico **Jo-Ken-Pô**, ambientado no u
 
 O jogo foi desenvolvido como parte de um desafio do **Bootcamp Hi-Happy** na plataforma **DIO (Digital Innovation One)**, com foco em lógica de programação, manipulação de DOM e criação de interfaces dinâmicas para web.
 
-🚀 #Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 - **HTML5** — estrutura da interface e semântica da aplicação
 
